@@ -7,7 +7,7 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/gjbae1212/go-counter-badge/internal/assets"
+	"github.com/lmq8267/go-counter-badge/internal/assets"
 )
 
 const (
