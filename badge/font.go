@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	assets "github.com/gjbae1212/go-counter-badge/internal/assets"
+	assets "github.com/lmq8267/go-counter-badge/internal/assets"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
